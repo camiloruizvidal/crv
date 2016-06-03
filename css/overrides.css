@@ -1,99 +1,99 @@
 @media (max-width: 767px) {
-  .fp-section {
-    height: auto !important; } }
+    .fp-section {
+        height: auto !important; } }
 
 #logo {
-  margin: 20px auto; }
-  #logo img {
+    margin: 20px auto; }
+#logo img {
     max-width: 100%;
     display: block;
     margin: auto; }
-  @media (min-width: 768px) {
+@media (min-width: 768px) {
     #logo {
-      position: absolute;
-      left: 35px;
-      top: 0;
-      width: 100px; } }
-  @media (min-width: 992px) {
+        position: absolute;
+        left: 35px;
+        top: 0;
+        width: 100px; } }
+@media (min-width: 992px) {
     #logo {
-      left: 95px;
-      width: auto;
-      margin-top: 80px; } }
+        left: 95px;
+        width: auto;
+        margin-top: 80px; } }
 
 @media (min-width: 768px) {
-  #home-top .container-fluid {
-    padding-top: 89px;
-    padding-bottom: 89px; } }
+    #home-top .container-fluid {
+        padding-top: 89px;
+        padding-bottom: 89px; } }
 @media (min-width: 992px) {
-  #home-top .container-fluid {
-    padding-top: 198px;
-    padding-bottom: 198px; } }
+    #home-top .container-fluid {
+        padding-top: 198px;
+        padding-bottom: 198px; } }
 
 .home .title {
-  font-family: "Raleway", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
-  line-height: 1.2;
-  text-align: center;
-  margin-top: 20px;
-  margin-bottom: 20px; }
-  .home .title strong {
+    font-family: "Raleway", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    line-height: 1.2;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px; }
+.home .title strong {
     font-weight: 800; }
-  @media (min-width: 768px) {
+@media (min-width: 768px) {
     .home .title {
-      text-align: left;
-      font-size: 50px;
-      line-height: 1;
-      width: 90%; } }
-  @media (min-width: 1200px) {
+        text-align: left;
+        font-size: 50px;
+        line-height: 1;
+        width: 90%; } }
+@media (min-width: 1200px) {
     .home .title {
-      width: 70%;
-      font-size: 70px;
-      margin-top: 40px;
-      margin-bottom: 40px; } }
+        width: 70%;
+        font-size: 70px;
+        margin-top: 40px;
+        margin-bottom: 40px; } }
 
 #home-logos {
-  font-size: 0;
-  text-align: center;
-  margin-bottom: 20px; }
-  #home-logos .vendor-img {
+    font-size: 0;
+    text-align: center;
+    margin-bottom: 20px; }
+#home-logos .vendor-img {
     display: inline-block;
     vertical-align: middle;
     margin-left: 5px;
     margin-right: 5px; }
-  @media (min-width: 768px) {
+@media (min-width: 768px) {
     #home-logos {
-      margin-bottom: 40px;
-      text-align: left; }
-      #home-logos .vendor-img {
+        margin-bottom: 40px;
+        text-align: left; }
+    #home-logos .vendor-img {
         margin-right: 20px; } }
 
 .home {
-  padding-left: 15px;
-  padding-right: 15px; }
-  @media (min-width: 768px) {
+    padding-left: 15px;
+    padding-right: 15px; }
+@media (min-width: 768px) {
     .home {
-      padding-left: 20px;
-      padding-right: 20px; } }
-  @media (min-width: 992px) {
+        padding-left: 20px;
+        padding-right: 20px; } }
+@media (min-width: 992px) {
     .home {
-      padding-left: 80px;
-      padding-right: 80px; } }
+        padding-left: 80px;
+        padding-right: 80px; } }
 
 .home-vid {
-  position: absolute;
-  left: 0;
-  top: 0;
-  right: 0;
-  bottom: 0;
-  overflow: hidden; }
-  .home-vid .iframe-container {
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    overflow: hidden; }
+.home-vid .iframe-container {
     position: absolute;
     left: 50%;
     top: 50%; }
-  .home-vid iframe {
+.home-vid iframe {
     display: block;
     width: 100%;
     height: 100%; }
-  .home-vid:after {
+.home-vid:after {
     content: "";
     position: absolute;
     left: 0;
@@ -103,108 +103,109 @@
     background-color: rgba(0, 0, 0, 0.5); }
 
 .scroll-help {
-  margin: 20px auto; }
-  @media (min-width: 768px) {
+    margin: 20px auto; }
+@media (min-width: 768px) {
     .scroll-help {
-      position: absolute;
-      left: 0;
-      bottom: 35px;
-      right: 0; } }
+        position: absolute;
+        left: 0;
+        bottom: 35px;
+        right: 0; } }
 
 #work-title {
-  font-weight: 300;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-  line-height: 1;
-  margin: 0;
-  text-align: center;
-  color: #fff;
-  position: relative;
-  z-index: 50;
-  margin-bottom: -76px;
-  padding-top: 20px;
-  padding-bottom: 20px; }
-  @media (min-width: 768px) {
+    font-weight: 300;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    line-height: 1;
+    margin: 0;
+    text-align: center;
+    color: #fff;
+    position: relative;
+    z-index: 50;
+    margin-bottom: -76px;
+    padding-top: 20px;
+    padding-bottom: 20px; }
+@media (min-width: 768px) {
     #work-title {
-      font-size: 48px;
-      padding-top: 80px;
-      margin-bottom: -148px; } }
+        font-size: 48px;
+        padding-top: 80px;
+        margin-bottom: -148px; } }
 
 @media (min-width: 768px) {
-  .work .fp-tableCell {
-    height: auto !important; } }
+    .work .fp-tableCell {
+        height: auto !important; } }
 
 .work .slide {
-  padding-top: 76px;
-  padding-bottom: 52px; }
-  @media (min-width: 768px) {
+    padding-top: 76px;
+    padding-bottom: 52px; }
+@media (min-width: 768px) {
     .work .slide {
-      padding-top: 123px; } }
+        padding-top: 123px; } }
 
 .capabilities .cap__icon {
-  width: 100px;
-  height: 100px; }
-  @media (min-width: 768px) {
+    width: 100px;
+    height: 100px; }
+@media (min-width: 768px) {
     .capabilities .cap__icon {
-      width: 140px;
-      height: 140px; } }
+        width: 140px;
+        height: 140px; } }
 
 .contact a {
-  color: #fff; }
+    color: #fff; }
 
 @media (min-width: 768px) {
-  .capabilities {
-    padding-top: 40px;
-    padding-bottom: 65px; } }
+    .capabilities {
+        padding-top: 40px;
+        padding-bottom: 65px; } }
 
 .team .team__members {
-  text-align: center;
-  font-size: 0; }
-  @media (min-width: 768px) {
+    text-align: center;
+    font-size: 0; }
+@media (min-width: 768px) {
     .team .team__members .team__member {
-      width: 50%;
-      display: inline-block;
-      vertical-align: middle; } }
-  @media (min-width: 992px) {
+        width: 50%;
+        display: inline-block;
+        vertical-align: middle; } }
+@media (min-width: 992px) {
     .team .team__members .team__member {
-      width: 33.3333333%; } }
+        width: 33.3333333%; } }
 
 #brands-title {
-  font-weight: 300;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-  line-height: 1;
-  text-align: center;
-  margin: 20px auto; }
-  @media (min-width: 768px) {
+    font-weight: 300;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    line-height: 1;
+    text-align: center;
+    margin: 20px auto;
+    color: #FFF;}
+@media (min-width: 768px) {
     #brands-title {
-      font-size: 48px;
-      margin-top: 80px; } }
+        font-size: 48px;
+        margin-top: 80px; } }
 
 .brands {
-  background-color: #fff; }
+    background-color: #074D83; }
 
 .brand-list {
-  max-width: 1280px;
-  margin: 0 auto 20px;
-  font-size: 0;
-  text-align: center; }
-  .brand-list .brand {
+    max-width: 1280px;
+    margin: 0 auto 20px;
+    font-size: 0;
+    text-align: center; }
+.brand-list .brand {
     width: 50%;
     display: inline-block;
     vertical-align: middle;
     padding-left: 40px;
     padding-right: 40px; }
-    @media (min-width: 768px) {
-      .brand-list .brand {
+@media (min-width: 768px) {
+    .brand-list .brand {
         width: 25%; } }
-  .brand-list .brand-image {
+.brand-list .brand-image {
     padding: 40px 0; }
-    .brand-list .brand-image img {
-      display: block;
-      margin: 0 auto; }
-    @media (min-width: 768px) {
-      .brand-list .brand-image {
+.brand-list .brand-image img {
+    display: block;
+    margin: 0 auto; }
+@media (min-width: 768px) {
+    .brand-list .brand-image {
         padding: 60px 0; } }
 
 /*# sourceMappingURL=overrides.css.map */
