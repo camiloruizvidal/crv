@@ -24,7 +24,14 @@ function init() {
 
 var parentElement = document.getElementById("main");
 
-var theFirstChild = parentElement.firstChild;
+var theFirstChild =null;
+try{
+      theFirstChild = parentElement.firstChild;
+}
+catch(e)
+{
+    theFirstChild=null;
+}
 
 container = document.createElement( 'section' );
 container.setAttribute("id", "canvasdrag");
